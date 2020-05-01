@@ -23,7 +23,7 @@ int main(void) {
 	*/
 
 	int** p = (int**)malloc(sizeof(int*) * 3);
-
+	//test
 
 	system("pause");
 	return 0;
