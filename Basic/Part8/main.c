@@ -18,8 +18,6 @@ int main(void) {
 	//ld b = 100.5054;
 	//printf("%.1f\n", a * b);
 
-
-
 	system("pause");
 	return 0;
 }
